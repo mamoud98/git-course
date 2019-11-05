@@ -1,0 +1,585 @@
+/* the body */
+
+ body
+{
+     height: 1900px;   
+}
+ .contanar {
+    width:1170px;
+    margin: auto;
+    
+ }
+ .clearfix
+ {
+     clear: both;
+ }
+ /* the end body*/
+ /* the fater*/
+ .father .son1
+  {
+    
+    height:500px;
+    background-image: url(../img/www.jpg);
+    background-size: cover;
+    height: 600px;
+  }
+  .father .son1 .sonson1
+  
+  {
+  padding-top: 200px;
+  text-align: center;
+  color: #FFFFFF;
+  
+    
+  }
+  .father .son1 .sonson1 h2
+  {
+     margin: 0px auto;
+     font-size: 50px;
+     width: 600px;
+     border-top: 4px solid #FFFFFF;
+     border-bottom: 4px solid #FFFFFF;
+     padding: 5px;
+  }
+  .father .son1 .sonson1 button{
+     background: none;
+     margin-top: 30px;
+     font-size: 20px;
+     border: 4px solid #FFFFFF;
+     font-weight: bold;
+     padding: 10px 20px;
+  }
+  
+  .father .son2
+  {
+  background-color:#252F31;
+  color:#FFFFFF;
+  overflow: hidden;
+  }
+  .father .son2 h2{
+    float: left;
+    text-transform: uppercase;
+    
+  }
+  .father .son2 h2 span{
+    color:#2DCC70;
+  }
+  .father .son2 ul
+  {
+    list-style: none;
+    padding-left: 0;
+    overflow: hidden;
+    float: right;
+  }
+  .father .son2 ul li{
+    float: left;
+    padding: 10px;
+    text-transform: uppercase;
+    
+  }
+ .father .son2 ul li a
+ {
+     color: #fff;
+     text-decoration: none;
+     
+ }
+    
+   .father .son2 ul li.active a,
+   .father .son2 ul li a:hover
+   {
+     color:#2DCC70;
+   }
+    
+
+ 
+  
+ /* the end of father*/
+ /*the father 2*/
+ .father2 
+ {
+  color: #546265;
+  overflow: hidden;
+  padding:40px 0px 50px 0px;
+  
+ }
+ .father2 .nextson
+ {
+   float: left;
+   width:32%;
+   padding-right: 1.3333%;
+   height: 150px;
+   
+ }
+ .father2 .nextson h2 { color:#5A646A ; text-transform: uppercase;}
+ .father2 .nextson p{
+     line-height: 1.7;
+     color:#979797;
+ }
+ 
+ 
+ /*the end of father 2*/
+ /*the father 3*/
+ .father3
+ {
+   overflow: hidden;
+   
+   background: #F2F2F2;
+   
+ }
+ .father3 .imgg
+ {
+   float: left;
+   width:40%;
+   
+   
+ }
+ .father3 .imgg img { width: 100%; }
+ 
+   
+ 
+ .father3 .nextson2
+ {
+   float: left;
+   width:60%;
+   
+ }
+ .father3 .nextson2 h2
+ {
+     margin: 25px 0px 20px 40px;
+     color: #576367;
+     text-transform: uppercase;
+     
+     
+ }
+ .father3 .nextson2  p
+ {
+      line-height: 1.6;
+     color:#979797;
+ }
+ 
+ .father3 .nextson2 > p
+ {
+     margin: 0px 0px 10px 40px;
+    
+     
+ }
+ 
+ .father3 .nextson2 >p:last-of-type
+ {
+    margin-top: 25px;
+     
+     
+ }
+ 
+ .father3 .nextson2 .down
+ {
+    
+   overflow: hidden;
+   margin: 15px 0px 0px 40px;
+  
+ }
+ .father3 .nextson2 .down .cont h3{
+     color:  #586365;
+ }
+ 
+ .father3 .nextson2 .down .cont
+ {
+   float: left;
+   width: 50%;
+  min-height: 100px;
+  overflow: hidden;
+  
+ }
+  .father3 .nextson2 .down .cont .icon
+ {
+  float:left;
+  width:12%;
+  margin-right: 5%;
+  
+  
+ }
+  .father3 .nextson2 .down .cont .icon img
+ {
+  
+   max-width:100%;
+   margin: 20px 10px 0px 0px;
+  
+  
+ }
+ .father3 .nextson2 .down .cont .text
+ {
+   float:left;
+   width:83%;
+ }
+ .father3 .nextson2 .down .cont .text h3
+ {
+   margin-bottom: 5px;
+ }
+ .father3 .nextson2 .down .cont .text p
+ {
+   margin-top: 0px;
+ }
+ 
+ 
+/*the end of father 3*/
+/*the my skills*/
+.my-skills
+{
+  overflow: hidden;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.my-skills .skills1
+{
+   float: left;
+   width: 50%; 
+}
+.my-skills .skills1 h2
+{
+     margin: 25px 0px 20px 40px;
+     color: #626F72;
+    
+}
+.my-skills .skills1 p
+{
+    margin: 0px 0px 10px 40px;
+     line-height: 1.6;
+     color: #AAAAAA;
+     
+}
+.my-skills .skills1 button
+{
+     background: none;
+     color: #3DCF79;
+     border: 2px solid #3DCF79;
+     margin: 20px 40px;
+     padding: 10px 30px;
+
+     
+     
+}
+
+.my-skills .skills2
+{
+   float: left;
+   width: 50%;
+ 
+}
+.my-skills .skills2 .tic h3
+{
+      color: #626F72;
+      margin-left: 50px;
+      margin-top:50px;
+      text-transform: uppercase;
+      
+}
+.my-skills .skills2 .tic div
+{
+    height: 25px;
+    background-color:#F2F2F2;
+    margin-left: 50px;
+    
+}
+.my-skills .skills2 .tic span
+{
+   height: 25px;
+   background-color: #3DCF79;
+   display: block;
+   line-height: 25px;
+   text-align: right;
+   color: #fff;
+   
+   
+}
+
+
+
+.resume
+{
+   background: #F2F2F2;
+   text-align: center;
+}
+.resume h2
+{
+ text-transform: uppercase;
+ margin : 30px;
+ padding-top: 60px; 
+ color: #858F8F;    
+}
+.resume p
+{
+  color: #858F8F;
+  line-height: 1.6;
+  padding: 0px 40px;
+  
+     
+}
+.resume button
+{
+    background: none;
+     color: #3DCF79;
+     border: 2px solid #3DCF79;
+     margin: 20px 40px;
+     padding: 10px 20px;
+     text-transform: uppercase;
+     margin-bottom: 50px;
+     font-weight: bold;
+     
+     
+}
+
+
+
+/*the end of skills*/
+/* the after of resume*/
+.my-education {
+     overflow: hidden;
+}
+.my-education .education1
+
+
+{
+   float: left;
+   width: 50%;
+   margin-right: 5%;
+     
+}
+.my-education .education1 h2
+{
+   text-transform: uppercase;
+   color: #556265;
+   margin-top: 60px;
+   margin-bottom: 30px
+   
+}
+.my-education .education1 p
+{
+   line-height: 1.6;
+   color: #858F8F; 
+}
+
+.my-education .education2
+{
+   
+   float: left;
+   width: 45%;
+     
+}
+.my-education .education2 .rrr h3
+{
+     margin-top: 115px;
+     text-transform: uppercase;
+     color: #6C787B;
+}
+.my-education .education2 .rrr span{
+     font-weight: 500;
+}
+.my-education .education2 .rrr p
+{
+    color: #858F8F;
+    font-size:large;
+    line-height: 1.6;
+    
+}
+.my-education .education2 .rrr div
+{
+     height: 25px;
+     width: 55px;
+     background-color: #3DCF79;
+     color: #fff;
+     text-transform: uppercase;
+     padding: 5px 10px;
+     margin-bottom:25px;
+     
+} 
+
+
+
+
+/* the end  after of resume*/
+
+
+/*the  john stor*/
+
+.john-stor
+{
+   background: #F2F2F2;
+   text-align: center;
+   padding-bottom:70px;
+   padding-top: 50px;
+   
+}
+.john-stor q
+{
+     color: #ADADAD;
+     font-size:25px;
+     
+     line-height: 1.6;
+     font-style: italic;
+}
+.john-stor h3{
+     text-transform: uppercase;
+}
+.john-stor ul{
+     list-style: none;
+     padding-left: 0px;
+     text-align: center;
+}
+.john-stor ul li
+{
+     width: 20px;
+     height: 20px;
+     border: 2px solid #3DCF79;
+     display: inline-block;
+     cursor: pointer;
+     
+}
+ .john-stor ul li.active,
+ .john-stor ul li:hover
+ {
+    background-color: #3DCF79;
+     
+ }
+ /*the end john stor*/
+ 
+ /*the portfolio*/
+ .portfolio{
+     text-align: center;
+     padding-top: 50px;
+     padding-bottom: 70px;
+     
+ }
+ .portfolio h2 {
+  color: #6C787B;  
+     
+ }
+ .portfolio p {
+   line-height: 1.6;
+   color:#ADADAD;
+   margin-bottom: 30px;
+     
+ }
+ 
+ .portfolio .imgg2
+ {
+     overflow: hidden;
+ }
+  .portfolio .imgg2 > div
+  {
+    float:left;
+    width: 33.3333%;
+    margin-bottom: 10px;
+  }
+ .portfolio .imgg2 > div img
+ {
+     width: 92%;
+     margin: 10px;
+     background-color: #fff;
+     border: 1px solid #ccc;
+     padding: 3px;
+ }
+ 
+ 
+ /*the end of portfolio*/
+ /* the  contact me*/
+ 
+ .contact-me{
+     background: #252F31;
+     overflow: hidden;
+     padding-bottom: 70px;
+     padding-top: 50px;
+     
+ }
+ .contact-me .me1
+ {
+     float: left;
+     width: 50%;
+     margin-right: 5%;
+     
+ }
+ .contact-me .me1 h2{
+     color:#fff;
+     margin-left: 40px;
+ }
+  .contact-me p{
+     color:#8A8C8E;
+     margin-left: 40px;
+     line-height: 1.6; 
+  }
+  .contact-me strong
+  {
+     color:#F0F4F4;
+  }
+  .contact-me .me2 label
+  {
+     display: block;
+     color:#F0F4F4;
+     margin: 10px 0px;
+  }
+ .contact-me .me2
+ {
+     float: left;
+     width: 45%;
+ }
+ .contact-me .me2 input[type="text"]
+ {
+     background-color: #4B5557;
+     color:#fff;
+     border: none;
+     padding: 10px;
+     width: 100%;
+     margin-bottom: 10px;
+     
+ }
+ 
+ .contact-me .me2 textarea
+ {
+     background-color:#4B5557;
+     color:#fff;
+     border: none;
+     padding: 10px;
+     width: 100%;
+     margin-bottom: 10px;
+     height: 300px;
+     
+ }
+ 
+ .contact-me .me2 input[type="submit"]
+ {
+     background-color: #191E21;
+     color:#fff;
+     border: none;
+     padding: 10px 20px ;
+     margin-top: 10px;
+     text-transform: uppercase;
+     
+     
+ }
+ 
+ /*the end of contact me*/
+ 
+ 
+ /*the end*/
+ .end{
+     background: #191E21;
+     padding: 40px;
+     text-align: center;
+ }
+
+ .end ul
+ {
+   list-style: none;
+   padding-left: 0px;
+  
+   margin-top: 30px;
+ }
+ .end ul li{
+     display: inline-block;
+ }
+ .end ul li img{
+    width: 30px;
+ }
+ 
+ 
+ 
